@@ -194,17 +194,11 @@ Defined by enclosing text in single (‘), double (“), or triple (‘ ’ ’ 
 
 
 
-\-
+\- used to represent multibyte international character sets
 
-\-
+\- defined by preceding an ordinary string literal with a *u* or *U*
 
-\-
-
-used to represent multibyte international character sets
-
-defined by preceding an ordinary string literal with a *u* or *U*
-
--U command-line option would ensure interpreting all string
+\- -U command-line option would ensure interpreting all string
 
 literals as Unicode
 
