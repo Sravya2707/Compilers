@@ -182,11 +182,7 @@ number
 
 ▪ 8-bit character data (ASCII)
 
-\-
-
-Defined by enclosing text in single (‘), double (“), or triple (‘ ’ ’ or
-
-“ ” ”) quotes
+\- Defined by enclosing text in single (‘), double (“), or triple (‘ ’ ’ or “ ” ”) quotes
 
 ▪ Unicode (16-bit-wide character data)
 
